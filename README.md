@@ -2,6 +2,6 @@
 
 ### Languages and Tools:
 
-
-            <i class="devicon-docker-plain-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+          
           
