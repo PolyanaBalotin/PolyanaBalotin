@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20">, I'm [Poly Balotin!](https://www.linkedin.com/in/polyana-balotin/) 
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm [Poly Balotin!](https://www.linkedin.com/in/polyana-balotin/) 
 
 
 ### About Me 🚀
